@@ -7,3 +7,14 @@ The rivers and Botswana dams are displayed on the map, and you could be able to 
 
 The platform made use of IBM technologies, IBM cloud service Node Red.Also the application is deployed on IBM cloud,the following link direct you are to our application
 https://thothibotshelo2.eu-gb.mybluemix.net/ui/
+
+## Built With
+  IBM Cloud , Node Red App ,
+  The Weather Company
+
+## Authors
+  Tlotlo Patriot Kgotlafela, BSc Computing With Finance Graduate Class of 2020,University of Botswana, 201503503@ub.ac.bw
+  
+  Pako Daniel Moatshe, BEng Civil Engeneering ,Final Year Student ,University of Botswana,201602167@ub.ac.bw
+  
+  Thatayaone Molokwe,BSc Computing With Finance,Final Year Student ,University of Botswana,201500753@ub.ac.bw
