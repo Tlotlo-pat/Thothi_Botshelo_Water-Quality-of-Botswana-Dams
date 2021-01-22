@@ -20,3 +20,6 @@ https://thothibotshelo2.eu-gb.mybluemix.net/ui/
   Thatayaone Molokwe,BSc Computing With Finance,Final Year Student ,University of Botswana,201500753@ub.ac.bw
 
 ![Dashboard](../main/screenshots/1.PNG)
+![Dashboard](../main/screenshots/2.PNG)
+![Dashboard](../main/screenshots/3.PNG)
+![Nodes](../main/screenshots/nodes-botswana dams.PNG)
