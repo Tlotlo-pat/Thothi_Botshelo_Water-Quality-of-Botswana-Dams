@@ -19,4 +19,4 @@ https://thothibotshelo2.eu-gb.mybluemix.net/ui/
   
   Thatayaone Molokwe,BSc Computing With Finance,Final Year Student ,University of Botswana,201500753@ub.ac.bw
 
-![Dashboard](../master/screenshots/1.PNG)
+![Dashboard](../Thothi_Botshelo_Water-Quality-of-Botswana-Dams/screenshots/1.PNG)
